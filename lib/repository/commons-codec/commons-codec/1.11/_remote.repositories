@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Nov 22 21:47:53 CST 2019
+commons-codec-1.11.jar>central=
+commons-codec-1.11.pom>central=
+commons-codec-1.11.pom>nexus-aliyun=
+commons-codec-1.11.jar>nexus-aliyun=
